@@ -23,7 +23,7 @@ public class NvidiumConfig {
     public int region_keep_distance = 32;
 
 
-    public boolean render_fog = true;
+    public boolean render_fog = false;
     public boolean use_sodium_vertex_format = false;
     public boolean cull_degenerate_triangles = true;
     public boolean use_nv_fragment_shader_barycentric = true;
